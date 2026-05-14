@@ -1,7 +1,7 @@
 # Cryptography Lib Lab — Project Report
 
-**Student:** seif asharf fawzy roushdy
-**section** 1
+**Student:** seif asharf fawzy roushdy   
+**section** 1  
 **Course:** Cryptography / Information Security Lab  
 **Date:** 2025  
 
