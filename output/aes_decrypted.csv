@@ -1,0 +1,11 @@
+StudentID,Name,Email,Grade,GPA,Major
+STU001,Alice Johnson,alice.johnson@university.edu,Senior,3.85,Computer Science
+STU002,Bob Martinez,bob.martinez@university.edu,Junior,3.42,Information Security
+STU003,Carol White,carol.white@university.edu,Senior,3.91,Software Engineering
+STU004,David Kim,david.kim@university.edu,Sophomore,2.98,Computer Science
+STU005,Eva Brown,eva.brown@university.edu,Junior,3.67,Cybersecurity
+STU006,Frank Lee,frank.lee@university.edu,Freshman,3.15,Computer Science
+STU007,Grace Chen,grace.chen@university.edu,Senior,3.78,Information Systems
+STU008,Henry Davis,henry.davis@university.edu,Junior,3.33,Software Engineering
+STU009,Iris Wilson,iris.wilson@university.edu,Senior,3.95,Computer Science
+STU010,Jake Thompson,jake.thompson@university.edu,Sophomore,2.85,Cybersecurity
